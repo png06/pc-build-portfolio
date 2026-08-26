@@ -8,10 +8,15 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 | # | Build Identifier | CPU | GPU | RAM | Storage | Total Cost | Est. Market Value |
 |---|-------------------|-----|-----|-----|---------|------------|-------------------|
-| 01 | Budget 1080p Esports | Ryzen 5 3600 | GTX 1660 Super | 16GB DDR4-3200 | 512GB NVMe | $280 | $450 |
-| 02 | Mid-Range 1440p Rig | i5-10400F | RTX 2070 | 16GB DDR4-3000 | 1TB NVMe | $410 | $620 |
-| 03 | Compact ITX Build | Ryzen 5 5600X | RTX 3060 12GB | 32GB DDR4-3600 | 1TB NVMe | $520 | $750 |
-| ... | ... | ... | ... | ... | ... | ... | ... |
+| 01 | Budget 1080p Esports | Ryzen 3 1200 | RX 580 | 16GB DDR4-2400 | $280 | $450 |
+| 02 | Budget 1080p Esports 2 | Ryzen 5 3500 | RX 580 | 16GB DDR4-3000 | 256GB NVMe | $410 | $620 |
+| 03 | Compact ITX Build | Ryzen 5 5600X | GTX 1080 | 16GB DDR4-3600 | 1TB NVMe | $520 | $750 |
+| 04 | Mid-Range 1080p/1440p | Ryzen 9 3900x | RTX 3060 | 16GB DDR4-2400 | $280 | $450 |
+| 05 | entry-level 1440p gaming workstation | Ryzen 5 3500 | GTX 1660 Ti | 16GB DDR4-3000 | 256GB NVMe | $410 | $620 |
+| 06 | Mid-Range 1080p Rig | Ryzen 7 5700X | RTX 3070 | 24GB DDR4-3600 | 1TB NVMe | $520 | $750 |
+| 07 | High-Performance 1440p Gaming & Render Station | Ryzen 7 5700X | RTX 3070 | 24GB DDR4-3600 | 1TB NVMe | $520 | $750 |
+| 08 | High-End 1440p / 4K-Capable Gaming Workstation | Ryzen 7 9700x | RX 6950 XT | 16GB DDR4-3000 | 256GB NVMe | $410 | $620 |
+
 
 ---
 
@@ -63,7 +68,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 ---
 
-### Build 04: Mid-Range 1080p/1440p High-Refresh Rig
+### Build 04: Mid-Range 1080p/1440p High-Refresh Rig 
 * **Key Specs:** AMD Ryzen 5 5600X | EVGA FTW GeForce GTX 1080 8GB | 16GB (2x8GB) DDR4-2400 | 500W 80+ Certified PSU
 * **Acquisition & Strategy:** Sourced as part of a budget component bundle to repurpose high-tier legacy hardware (GTX 1080 FTW) with a modern Zen 3 architecture, maximizing frame rates per dollar. 
 * **Firmware & Optimization:** Flashed the latest motherboard BIOS microcode to support the Ryzen 5 5600X architecture; stress-tested power draw under combined synthetic loads to verify the 500W power delivery headroom.
@@ -74,7 +79,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 ---
 
-### Build 05: High-End Compute & Multitasking Workstation
+### Build 05: entry-level 1440p gaming workstation
 * **Key Specs:** AMD Ryzen 9 3900X (12C/24T) | MSI GeForce RTX 3060 8GB | 32GB (2x16GB) DDR4-3200 | 600W 80+ Gold PSU
 * **Acquisition & System Role:** Sourced and reconfigured as a 12-core multi-threaded workstation following a modular GPU reallocation. Integrated a dedicated Wi-Fi adapter to expand networking capabilities.
 * **Thermal Optimization & Firmware Tuning:** Disassembled and cleaned the CPU cooling interface, applying fresh high-conductivity thermal paste to optimize thermal headroom across all 12 Zen 2 cores under sustained multi-threaded loads.
@@ -86,7 +91,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 ---
 
-### Build 06: Mid-Range 1440p Rig
+### Build 06: Mid-Range 1080p Rig
 * **Key Specs:** Ryzen 5 3600 | GTX 1660 Ti | 16GB DDR4-2400 | 80+ Certified 500W PSU
 * **Acquisition & Strategy:** Secured through secondary market arbitrage during a high-value hardware acquisition. Targeted a balanced price-to-performance sweet spot for 1080p esports and mainstream titles.
 * **Troubleshooting & Mod:** Conducted full component inspection, verified power delivery margins on the 500W 80+ PSU, and updated motherboard BIOS to optimize Zen 2 memory compatibility. Passed full stability and thermal stress benchmarks (Cinebench, FurMark, MemTest86) prior to deployment and resale.
@@ -97,7 +102,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 ---
 
-### Build 07: High-Performance 1440p / 4K Gaming & Render Station
+### Build 07: High-Performance 1440p Gaming & Render Station
 * **Key Specs:** AMD Ryzen 7 5800X (8C/16T) | ASUS GeForce RTX 3070 8GB | 32GB (2x16GB) DDR4-3200 | 650W 80+ Gold Certified PSU
 * **Acquisition & System Role:** High-throughput 1440p/4K platform built around an 8-core Zen 3 CPU and Ampere architecture, optimized for sustained multi-core workloads and high-frame-rate rendering. Integrated a dedicated Wi-Fi adapter for wireless connectivity.
 * **Firmware Tuning & Memory Subsystem Optimization:** 
@@ -111,7 +116,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 ---
 
-### Build 08: Enthusiast 1440p / 4K Flagship System (Zen 5 & RDNA 2 Architecture)
+### Build 08: High-End 1440p / 4K-Capable Gaming Workstation
 * **Key Specs:** AMD Ryzen 7 9700X (8C/16T Zen 5) | AMD Radeon RX 6950 XT 16GB | 32GB (2x16GB) DDR5-6000 EXPO | 700W 80+ Gold Certified PSU
 * **Acquisition & Platform Modernization:** 
   * Sourced via a high-tier Zen 5 platform bundle to build an enthusiast-grade compute and 4K gaming powerhouse.
@@ -128,3 +133,40 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 | Exterior View | Interior Layout |
 | :---: | :---: |
 | <img src="images/build02-front.jpg" width="350"> | <img src="images/build02-inside.jpg" width="350"> |
+
+---
+
+## 🛒 Hardware Procurement, Risk Mitigation & Arbitrage Guide
+
+A practical engineering framework for vetting secondary-market components, evaluating seller reliability, and executing high-ROI system upgrades.
+
+---
+
+### 1. Component-Specific Risk Analysis & Inspection Rubric
+
+* **Power Supplies (PSUs):** Always prioritize recognized, reputable name brands (e.g., Seasonic, EVGA, Corsair) with a minimum verified **80+ certification** (Bronze/Gold). Avoid unbranded, off-spec grey-market units, as unstable 12V/5V/3.3V rails can cause catastrophic damage across all connected components.
+* **CPUs & Sockets:**
+  * **AMD AM4 (PGA):** Inspect the underside of the processor closely under direct lighting for bent, sheared, or missing copper contact pins.
+  * **AMD AM5 / Intel LGA (LGA):** Inspect the motherboard socket itself rather than the CPU; look for crushed, crossed, or misaligned delicate spring pins inside the socket array.
+* **Graphics Cards (GPUs):** Screen for excessive thermal wear, silicon degradation, and fan bearing fatigue commonly associated with 24/7 crypto-mining rigs or extreme, unverified overclocks. Look for discolored thermal pads, oxidized heatsink fins, and dried factory paste.
+* **Storage & Memory:** Prioritize systems with SSD-based boot media; verify memory sticks run in matched pairs for stability.
+
+---
+
+### 2. Seller Screening, Transaction Safety & Logistics
+
+* **Account & Review Verification:** Prioritize sellers with verified account histories, active ratings, and consistent positive buyer feedback. Avoid accounts created days prior to listing high-value silicon.
+* **Listing Authenticity:** Ensure the photos are original (not stock images) and verify that the written description accurately matches the exact hardware model and serial revisions shown. On Facebook Marketplace, beware of accounts listing the same item in multiple distant cities simultaneously to fish for remote payments.
+* **Payment Security:** **Never use PayPal Friends & Family (F&F)** under any circumstance for unverified remote hardware. Strictly utilize **PayPal Goods & Services (G&S)** to ensure buyer protection against dead-on-arrival (DOA) hardware or scam listings.
+* **Logistics & Radius Strategy:** Limit local pickups to a maximum travel radius of **1 hour**. Extended travel increases the financial risk of buyer/seller "no-shows," cancellations, or inability to safely bench-test hardware in person.
+
+---
+
+### 3. High-ROI Upgrades (Maximum Value & Performance Impact)
+
+These low-cost modifications deliver significant measurable improvements in performance, reliability, and end-user demand:
+
+* **Dedicated Boot SSD Integration:** Replacing mechanical HDDs or low-capacity SATA drives with dedicated high-speed SSDs drastically reduces Windows OS boot times, lowers random I/O latency, and improves overall system responsiveness.
+* **Dual-Channel Memory Configurations:** Upgrading single-stick RAM setups to matched dual-channel (e.g., 1x16GB to 2x8GB) doubles memory bus bandwidth, stabilizing CPU 1% low frame rates and eliminating micro-stutters during heavy gaming and multi-tasking workloads.
+* **Integrated Wi-Fi / Bluetooth Connectivity:** Many desktop motherboards lack onboard wireless capability. Integrating affordable dedicated PCIe or M.2 Wi-Fi adapters adds immediate everyday convenience for users without dedicated Ethernet cable runs.
+---
