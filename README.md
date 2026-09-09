@@ -7,16 +7,14 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 ##  Build Inventory & Spec Matrix
 
 | # | Build Identifier | CPU | GPU | RAM | Total Cost | Est. Market Value |
-|---|-------------------|-----|-----|-----|---------|------------|-------------------|
+| :-: | :--- | :--- | :--- | :--- | :-: | :-: |
 | 01 | Budget 1080p Esports | Ryzen 3 1200 | RX 580 | 16GB DDR4-2400 | $280 | $450 |
 | 02 | Budget 1080p Esports 2 | Ryzen 5 3500 | RX 580 | 16GB DDR4-3000 | $410 | $620 |
-| 03 | Compact ITX Build | Ryzen 5 5600X | GTX 1080 | 16GB DDR4-3600| $520 | $750 |
-| 04 | Mid-Range 1080p/1440p | Ryzen 9 3900x | RTX 3060 | 16GB DDR4-2400 | $280 | $450 |
-| 05 | entry-level 1440p gaming workstation | Ryzen 5 3500 | GTX 1660 Ti | 16GB DDR4-3000 | $410 | $620 |
+| 03 | Compact ITX Build | Ryzen 5 5600X | GTX 1080 | 16GB DDR4-3600 | $520 | $750 |
+| 04 | Mid-Range 1080p/1440p | Ryzen 9 3900X | RTX 3060 | 16GB DDR4-2400 | $280 | $450 |
+| 05 | Entry-Level 1440p Gaming Workstation | Ryzen 5 3500 | GTX 1660 Ti | 16GB DDR4-3000 | $410 | $620 |
 | 06 | High-Performance 1440p Gaming & Render Station | Ryzen 7 5700X | RTX 3070 | 24GB DDR4-3600 | $520 | $750 |
-| 07 | High-End 1440p / 4K-Capable Gaming Workstation | Ryzen 7 9700x | RX 6950 XT | 16GB DDR4-3000 | $410 | $620 |
-
-
+| 07 | High-End 1440p / 4K-Capable Gaming Workstation | Ryzen 7 9700X | RX 6950 XT | 16GB DDR4-3000 | $410 | $620 |
 ---
 
 ## 🛠️ Build Logs & Gallery
