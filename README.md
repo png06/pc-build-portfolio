@@ -116,6 +116,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
   * **Resolution:** Bypassed the damaged onboard pin header by routing lighting control through a dedicated internal SATA-powered ARGB/PWM distribution hub, restoring full addressable lighting control without risking short circuits on the PCB.
 * **Memory & Electrical Tuning:** Enabled AMD EXPO profiles to lock in DDR5-6000 memory bandwidth with 1:1 UCLK/MCLK ratio; stress-tested total system power draw under heavy transient load conditions.
 
+| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| :---: | :---: |
+|[ <img src="images/build07-front.jpg" width="350">](https://media.discordapp.net/attachments/1334610999767994433/1544802661105274951/IMG_9879.jpg?ex=6aa30f97&is=6aa1be17&hm=7188b9c0aa3c8f9d4726bbef5024f36bbc2fe28c733b266ff92b41bbcf429320&=&format=webp&width=768&height=576) | <img src="images/build07-inside.jpg" width="350"> |
 
 ---
 
