@@ -29,9 +29,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
   * Installed a matching secondary DIMM to enable dual-channel memory bandwidth, improving CPU frame pacing.
   * Installed a Wi-Fi adapter for wireless accessibility.
 
-| Chassis & Exterior Condition | Internal Component Integration |
+| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
-| <img src="images/build01-front.jpg" width="350"> | <img src="images/build01-inside.jpg" width="350"> |
+| <img src="pcBuild1.jpg" width="350"> | <img src="pcBuild1x.jpg" width="350"> |
 
 ---
 
@@ -45,14 +45,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
   * Replaced missing chassis panel and added a dedicated 500GB SSD to replace mechanical storage, drastically reducing OS latency and I/O wait times.
   * Installed a secondary matching 8GB DIMM to enable dual-channel memory bandwidth and integrated a wireless adapter for end-user connectivity.
  
-
-| Chassis Profile & Front I/O | Component Integration & Internal Airflow |
+| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
-| <img src="images/build02-front.jpg" width="350"> | <img src="images/build02-inside.jpg" width="350"> |
-
-| Exterior View | Interior Layout |
-| :---: | :---: |
-| <img src="images/build02-front.jpg" width="350"> | <img src="images/build02-inside.jpg" width="350"> |
+| <img src="pcBuild2.jpg" width="350"> | <img src="pcBuild2x.jpg" width="350"> |
 
 ---
 
@@ -119,7 +114,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 | Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
 | <img src="pcBuild7.jpg" width="350"> | <img src="pcBuild7x.jpg" width="350"> |
-| <img src="pcBuild7.jpg" width="350"> | <img src="pcBuild7.jpg" width="350"> |
+
 
 ---
 
