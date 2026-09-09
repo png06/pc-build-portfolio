@@ -39,7 +39,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 | **GPU UPD** | ASRock Phantom Gaming RX 580 8GB | $50 | $150 | -$100 | Facebook Marketplace |
 | **RAM UPD** | Corsair Vengeance 8GB DDR4-2400 | $20 | $40 | -$20 | OfferUp |
 | **Wifi** | AC1200 USB Wi-Fi Adapter | $12 | $12 | -$0 |
-| **Total** | — | **$382** | **$797** | **-$270 (32.9% Savings)** |
+| **Total** | — | **$382** | **$797** | **-$415 (52.0% Savings)** |
 
 ---
 
