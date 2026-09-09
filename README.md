@@ -149,7 +149,7 @@ A practical engineering framework for vetting secondary-market components, evalu
 
 | 3rd Party Payment Options |
 | :---: |
-| <img src="scam2.png" width="450"> |
+| <img src="scaa2.png" width="450"> |
 
 ---
 
