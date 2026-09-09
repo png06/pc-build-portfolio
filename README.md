@@ -29,9 +29,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
   * Installed a matching secondary DIMM to enable dual-channel memory bandwidth, improving CPU frame pacing.
   * Installed a Wi-Fi adapter for wireless accessibility.
 
-| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| Chassis Profile & Intake Airflow |
 | :---: | :---: |
-| <img src="pcBuild1.jpg" width="350"> | <img src="pcBuild1x.jpg" width="350"> |
+| <img src="pcBuild1.jpg" width="350"> |
 
 ---
 
