@@ -118,7 +118,8 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 | Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
-|[ <img src="images/build07-front.jpg" width="350">](https://media.discordapp.net/attachments/1334610999767994433/1544802661105274951/IMG_9879.jpg?ex=6aa30f97&is=6aa1be17&hm=7188b9c0aa3c8f9d4726bbef5024f36bbc2fe28c733b266ff92b41bbcf429320&=&format=webp&width=768&height=576) | <img src="images/build07-inside.jpg" width="350"> |
+| <img src="pcBuild7.jpg" width="350"> | <img src="pcBuild7x.jpg" width="350"> |
+| <img src="pcBuild7.jpg" width="350"> | <img src="pcBuild7.jpg" width="350"> |
 
 ---
 
