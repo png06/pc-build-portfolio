@@ -135,7 +135,7 @@ A practical engineering framework for vetting secondary-market components, evalu
 
 | Motherboard Damage Report |
 | :---: |
-| <img src="scam1.jpg" width="450"> |
+| <img src="scam1.png" width="450"> |
 
 ---
 
@@ -149,7 +149,7 @@ A practical engineering framework for vetting secondary-market components, evalu
 
 | 3rd Party Payment Options |
 | :---: |
-| <img src="scam2.jpg" width="450"> |
+| <img src="scam2.png" width="450"> |
 
 ---
 
