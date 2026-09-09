@@ -19,7 +19,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 ## 🛠️ Build Logs & Gallery
 
-### Build 01: Budget 1080p Esports System (SkyTech Archangel Overhaul)
+### Build 01: Budget 1080p Esports System (SkyTech Archangel Overhaul) (2019)
 * **Key Specs:** AMD Ryzen 3 1200 | ASRock Phantom Gaming RX 580 8GB | 16GB (2x8GB) DDR4-2400 | 500W 80+ Power Supply
 * **Baseline State & Bottleneck Analysis:** Acquired a legacy prebuilt (SkyTech Archangel) limited by a single-channel 8GB RAM configuration, an entry-level GTX 1050 Ti (4GB VRAM constraint), and no wireless connectivity.
 * **Upgrades & Hardware Integration:** 
@@ -30,6 +30,16 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 | Chassis Profile & Build Preview |
 | :---: |
 | <img src="pcBuild1.jpg" width="450"> |
+
+### Bill of Materials & Cost Analysis
+
+| Component | Part / Specs | Sourced Cost | Est. Retail / MSRP | Cost Delta | Sourced from |
+| :--- | :--- | :-: | :-: | :-: | :-: |
+| **PC** | SkyTech Archangel ST-ARCH-1200-1050Ti-4G Prebuilt | $300 | $600 | -$300 | LetGo |
+| **GPU UPD** | ASRock Phantom Gaming RX 580 8GB | $50 | $150 | -$100 | Facebook Marketplace |
+| **RAM UPD** | Corsair Vengeance 8GB DDR4-2400 | $20 | $40 | -$20 | OfferUp |
+| **Wifi** | AC1200 USB Wi-Fi Adapter | $12 | $12 | -$0 |
+| **Total** | — | **$382** | **$797** | **-$270 (32.9% Savings)** |
 
 ---
 
