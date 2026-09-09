@@ -133,6 +133,10 @@ A practical engineering framework for vetting secondary-market components, evalu
 * **Graphics Cards (GPUs):** Screen for excessive thermal wear, silicon degradation, and fan bearing fatigue commonly associated with 24/7 crypto-mining rigs or extreme, unverified overclocks. Look for discolored thermal pads, oxidized heatsink fins, and dried factory paste.
 * **Storage & Memory:** Prioritize systems with SSD-based boot media; verify memory sticks run in matched pairs for stability.
 
+| Motherboard Damage Report |
+| :---: |
+| <img src="scam1.jpg" width="450"> |
+
 ---
 
 ### 2. Seller Screening, Transaction Safety & Logistics
@@ -141,6 +145,11 @@ A practical engineering framework for vetting secondary-market components, evalu
 * **Listing Authenticity:** Ensure the photos are original (not stock images) and verify that the written description accurately matches the exact hardware model and serial revisions shown. On Facebook Marketplace, beware of accounts listing the same item in multiple distant cities simultaneously to fish for remote payments.
 * **Payment Security:** **Never use PayPal Friends & Family (F&F)** under any circumstance for unverified remote hardware. Strictly utilize **PayPal Goods & Services (G&S)** to ensure buyer protection against dead-on-arrival (DOA) hardware or scam listings.
 * **Logistics & Radius Strategy:** Limit local pickups to a maximum travel radius of **1 hour**. Extended travel increases the financial risk of buyer/seller "no-shows," cancellations, or inability to safely bench-test hardware in person.
+
+
+| 3rd Party Payment Options |
+| :---: |
+| <img src="scam2.jpg" width="450"> |
 
 ---
 
