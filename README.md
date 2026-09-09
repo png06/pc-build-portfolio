@@ -56,9 +56,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 * **Acquisition & Strategy:** Sourced as part of a budget component bundle to repurpose high-tier legacy hardware (GTX 1080 FTW) with a modern Zen 3 architecture, maximizing frame rates per dollar. 
 * **Firmware & Optimization:** Flashed the latest motherboard BIOS microcode to support the Ryzen 5 5600X architecture; stress-tested power draw under combined synthetic loads to verify the 500W power delivery headroom.
 
-| Chassis & Front Panel Profile | Internal Hardware Configuration |
+| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
-| <img src="images/build04-front.jpg" width="350"> | <img src="images/build04-inside.jpg" width="350"> |
+| <img src="pcBuild3.jpg" width="350"> | <img src="pcBuild3x.jpg" width="350"> |
 
 ---
 
@@ -68,9 +68,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 * **Thermal Optimization & Firmware Tuning:** Disassembled and cleaned the CPU cooling interface, applying fresh high-conductivity thermal paste to optimize thermal headroom across all 12 Zen 2 cores under sustained multi-threaded loads.
 * **Diagnostics & Memory Stability:** Resolved intermittent POST and memory initialization hangs by cleaning oxidized DIMM contacts and updating motherboard AGESA microcode. Certified rock-solid stability via a 4-hour zero-error MemTest86 pass and continuous Cinebench R23 multi-core thermal stress loops.
 
-| Exterior Assembly & I/O | Component Clearance & Cable Routing |
+| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
-| <img src="images/build05-front.jpg" width="350"> | <img src="images/build05-inside.jpg" width="350"> |
+| <img src="pcBuild4.jpg" width="350"> | <img src="pcBuild4x.jpg" width="350"> |
 
 ---
 
@@ -79,9 +79,9 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 * **Acquisition & Strategy:** Secured through secondary market arbitrage during a high-value hardware acquisition. Targeted a balanced price-to-performance sweet spot for 1080p esports and mainstream titles.
 * **Troubleshooting & Mod:** Conducted full component inspection, verified power delivery margins on the 500W 80+ PSU, and updated motherboard BIOS to optimize Zen 2 memory compatibility. Passed full stability and thermal stress benchmarks (Cinebench, FurMark, MemTest86) prior to deployment and resale.
   
-| Exterior View | Interior Layout |
-| :---: | :---: |
-| <img src="images/build02-front.jpg" width="350"> | <img src="images/build02-inside.jpg" width="350"> |
+| Chassis Profile & Build Preview |
+| :---: |
+| <img src="pcBuild5.jpg" width="450"> |
 
 ---
 
@@ -96,7 +96,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 
 | Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
 | :---: | :---: |
-| <img src="images/build07-front.jpg" width="350"> | <img src="images/build07-inside.jpg" width="350"> |
+| <img src="pcBuild6.jpg" width="350"> | <img src="pcBuild6x.jpg" width="350"> |
 
 ---
 
