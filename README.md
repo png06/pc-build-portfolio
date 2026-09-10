@@ -53,7 +53,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
   * Replaced missing chassis panel and added a dedicated 500GB SSD to replace mechanical storage, drastically reducing OS latency and I/O wait times.
   * Installed a secondary matching 8GB DIMM to enable dual-channel memory bandwidth and integrated a wireless adapter for end-user connectivity.
  
-| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| Chassis Profile 1 | Chassis Profile 2 |
 | :---: | :---: |
 | <img src="pcBuild2.jpg" width="350"> | <img src="pcBuild2x.jpg" width="350"> |
 
@@ -64,7 +64,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 * **Acquisition & Strategy:** Sourced as part of a budget component bundle to repurpose high-tier legacy hardware (GTX 1080 FTW) with a modern Zen 3 architecture, maximizing frame rates per dollar. 
 * **Firmware & Optimization:** Flashed the latest motherboard BIOS microcode to support the Ryzen 5 5600X architecture; stress-tested power draw under combined synthetic loads to verify the 500W power delivery headroom.
 
-| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| Chassis Profile 1 | Chassis Profile 2 |
 | :---: | :---: |
 | <img src="pcBuild3.jpg" width="350"> | <img src="pcBuild3x.jpg" width="350"> |
 
@@ -76,7 +76,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 * **Thermal Optimization & Firmware Tuning:** Disassembled and cleaned the CPU cooling interface, applying fresh high-conductivity thermal paste to optimize thermal headroom across all 12 Zen 2 cores under sustained multi-threaded loads.
 * **Diagnostics & Memory Stability:** Resolved intermittent POST and memory initialization hangs by cleaning oxidized DIMM contacts and updating motherboard AGESA microcode. Certified rock-solid stability via a 4-hour zero-error MemTest86 pass and continuous Cinebench R23 multi-core thermal stress loops.
 
-| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| Chassis Profile 1 | Chassis Profile 2 |
 | :---: | :---: |
 | <img src="pcBuild4.jpg" width="350"> | <img src="pcBuild4x.jpg" width="350"> |
 
@@ -102,7 +102,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 * **Thermal & Power Validation:** Verified transient power-draw headroom on the 650W 80+ Gold supply under concurrent CPU/GPU load testing (Cinebench R23 + FurMark) with zero voltage rail droop or thermal throttling.
 * 
 
-| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| Chassis Profile 1 | Chassis Profile 2 |
 | :---: | :---: |
 | <img src="pcBuild6.jpg" width="350"> | <img src="pcBuild6x.jpg" width="350"> |
 
@@ -119,7 +119,7 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
   * **Resolution:** Bypassed the damaged onboard pin header by routing lighting control through a dedicated internal SATA-powered ARGB/PWM distribution hub, restoring full addressable lighting control without risking short circuits on the PCB.
 * **Memory & Electrical Tuning:** Enabled AMD EXPO profiles to lock in DDR5-6000 memory bandwidth with 1:1 UCLK/MCLK ratio; stress-tested total system power draw under heavy transient load conditions.
 
-| Chassis Profile & Intake Airflow | Component Layout & Thermal Clearance |
+| Chassis Profile 1 | Chassis Profile 2 |
 | :---: | :---: |
 | <img src="pcBuild7.jpg" width="350"> | <img src="pcBuild7x.jpg" width="350"> |
 
