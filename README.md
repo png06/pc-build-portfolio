@@ -10,11 +10,11 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 | :-: | :--- | :--- | :--- | :--- | :-: | :-: |
 | 01 | Budget 1080p Esports | Ryzen 3 1200 | RX 580 | 16GB DDR4-2400 | $280 | $450 |
 | 02 | Budget 1080p Esports 2 | Ryzen 5 3500 | RX 580 | 16GB DDR4-3000 | $410 | $620 |
-| 03 | Compact ITX Build | Ryzen 5 5600X | GTX 1080 | 16GB DDR4-3600 | $520 | $750 |
+| 03 | Compact ITX Build | Ryzen 5 5600X | GTX 1080 | 16GB DDR4-3600 | $420 | $500 |
 | 04 | Mid-Range 1080p/1440p | Ryzen 9 3900X | RTX 3060 | 16GB DDR4-2400 | $280 | $450 |
 | 05 | Entry-Level 1440p Gaming Workstation | Ryzen 5 3500 | GTX 1660 Ti | 16GB DDR4-3000 | $410 | $620 |
-| 06 | High-Performance 1440p Gaming & Render Station | Ryzen 7 5700X | RTX 3070 | 24GB DDR4-3600 | $520 | $750 |
-| 07 | High-End 1440p / 4K-Capable Gaming Workstation | Ryzen 7 9700X | RX 6950 XT | 16GB DDR4-3000 | $410 | $620 |
+| 06 | High-Performance 1440p Gaming & Render Station | Ryzen 7 5700X | RTX 3070 | 24GB DDR4-3600 | $600 | $800 |
+| 07 | High-End 1440p / 4K-Capable Gaming Workstation | Ryzen 7 9700X | RX 6950 XT | 16GB DDR4-3000 | $900 | $1300 |
 ---
 
 ## 🛠️ Build Logs & Gallery
@@ -30,16 +30,6 @@ A portfolio documenting 8 custom desktop systems assembled, diagnosed, and optim
 | Chassis Profile & Build Preview |
 | :---: |
 | <img src="pcBuild1.jpg" width="450"> |
-
-### Bill of Materials & Cost Analysis
-
-| Component | Part / Specs | Sourced Cost | Est. Retail / MSRP | Cost Delta | Sourced from |
-| :--- | :--- | :-: | :-: | :-: | :-: |
-| **PC** | SkyTech Archangel ST-ARCH-1200-1050Ti-4G Prebuilt | $300 | $600 | -$300 | LetGo |
-| **GPU UPD** | ASRock Phantom Gaming RX 580 8GB | $50 | $150 | -$100 | Facebook Marketplace |
-| **RAM UPD** | Corsair Vengeance 8GB DDR4-2400 | $20 | $40 | -$20 | OfferUp |
-| **Wifi** | AC1200 USB Wi-Fi Adapter | $12 | $12 | -$0 |
-| **Total** | — | **$382** | **$797** | **-$415 (52.0% Savings)** |
 
 ---
 
